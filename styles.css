@@ -1,0 +1,71 @@
+body {
+    text-align: center;
+    font-family: 'Voltaire', sans-serif;
+    background-color: #16213E;
+}
+
+footer {
+    text-align: center;
+    font-family: 'Voltaire', sans-serif;
+    color: #FFB02E;
+}
+
+.title {
+    font-size: 8rem;
+    font-weight: 900;
+    margin-top: 75px;
+    text-shadow: 5px 5px #CA0B4A ;
+    color: #F3C07B;
+}
+
+.drum {
+    width: 150px;
+    height: 150px;
+    margin: 0 10px 100px;
+    color:#FFB02E;
+    font-family: 'Voltaire', sans-serif;
+    font-size: 6rem;
+    font-weight: 700;
+    text-shadow: 5px 5px #16213E;
+    border: 10px solid #3c4d7a;
+    border-radius: 10px;
+}
+
+.w {
+    background-image: url("images/tom1.png");
+}
+
+.a{
+    background-image: url("images/tom2.png");
+    
+}
+
+.s{
+    background-image: url("images/tom3.png");
+    
+}
+
+.d {
+    background-image: url("images/tom4.png");
+    
+}
+
+.j{
+    background-image: url("images/snare.png");
+    
+}
+
+.k{
+    background-image: url("images/crash.png");
+    
+}
+
+.l{
+    background-image: url("images/kick.png");
+
+}
+
+.pressed {
+    box-shadow: 0 3px 5px 0 #ffff;
+    opacity: 50%;
+}
